@@ -56,6 +56,7 @@ source venv/bin/activate  # Linux/Mac
 
 # 安装核心依赖库
 pip install numpy nibabel torch torchvision lungmask django
+```
 
 ### 5. 许可证
 **版权所有 (All Rights Reserved)**。本软件代码及相关文档受计算机软件著作权保护。未经著作权人明确授权，严禁任何形式的商业闭源、非法分发或修改演绎。
@@ -102,6 +103,7 @@ source venv/bin/activate  # For Linux/Mac
 
 # Install required packages
 pip install numpy nibabel torch torchvision lungmask django
+```
 
 ### 5. License
 **All Rights Reserved**. The source code and related documentation of this software are fully protected under Computer Software Copyright. Any form of commercial close-sourcing, unauthorized distribution, or derivative modification is strictly prohibited without explicit permission from the copyright owners.
